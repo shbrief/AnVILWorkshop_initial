@@ -1,4 +1,4 @@
-url: https://seandavi.github.io/sars2pack
+url: https://shbrief.github.io/AnVILWorkshop
 
 template:
   params:
@@ -13,6 +13,6 @@ home:
 navbar:
   right:
    - icon: fa-github
-     href: https://github.com/seandavi/BuildABiocWorkshop2020
+     href: https://github.com/shbrief/AnVILWorkshop
      
 
