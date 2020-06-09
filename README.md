@@ -1,4 +1,4 @@
-![](https://github.com/shbrief/AnVILWorkshop/workflows/.github/workflows/basic_checks.yaml/badge.svg
+![](https://github.com/shbrief/AnVILWorkshop/workflows/.github/workflows/basic_checks.yaml/badge.svg)
 
 # Introduction to the Terra/AnVIL Cloud-based Genomics Platform
 
